@@ -1,0 +1,17 @@
+{
+  "id": {
+    "N": "156"
+},
+  "name": {
+    "S": "Robert"
+},
+  "position": {
+    "S": "office coordinator"
+},
+  "contract_type": {
+    "S": "permanent"
+},
+  "last_accessed": {
+    "N": "20190506"
+  }
+}

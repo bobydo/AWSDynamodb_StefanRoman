@@ -1,0 +1,27 @@
+{
+    "Name": "Bob",
+    "Age": 55,
+    "Company": "Globomantics",
+    "Position": "DevOps",
+    "Kids": [
+      {
+        "Name": "Jane",
+        "Age": 2
+      },
+      {
+        "Name": "Peter",
+        "Age": 5
+      },
+      {
+        "Name": "Lucy",
+        "Age": 1
+      }
+    ],
+    "LotteryNumbers": [
+      4,
+      7,
+      65,
+      30,
+      10
+    ]
+}

@@ -1,0 +1,26 @@
+{
+  ":a": {
+    "L": [
+      {
+        "M": {
+          "street": {"S": "Planet"},
+          "number": {"N": "12"},
+          "country": {"S": "Milky Way"}}},
+      {
+        "M": {
+          "street": {"S": "Cosmic"},
+          "number": {"N": "32"},
+          "country": {"S": "Milky Way"}}},
+      {
+        "M": {
+          "street": {"S": "Saturn"},
+          "number": {"N": "13"},
+          "country": {"S": "Andromeda"}}}]},
+  ":k": {
+    "L": [
+      {"S": "Jane"},
+      {"S": "Peter"},
+      {"S": "Lucy"},
+      {"S": "Andy"}]
+  }
+}

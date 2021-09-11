@@ -1,0 +1,14 @@
+{
+  "id": {
+    "N": "10"
+  },
+  "contract_type": {
+    "S": "intern"
+  },
+  "name": {
+    "S": "Jane"
+  },
+  "position": {
+    "S": "HR"
+  }
+}

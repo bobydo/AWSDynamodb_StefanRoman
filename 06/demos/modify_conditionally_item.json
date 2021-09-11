@@ -1,0 +1,27 @@
+{
+  "id": {
+    "N": "10"
+  },
+  "contract_type": {
+    "S": "permanent"
+  },
+  "name": {
+    "S": "Robin"
+  },
+  "position": {
+    "S": "data scientist"
+  },
+  "address": {
+    "M": {
+      "country": {
+        "S": "Milky Way"
+      },
+      "number": {
+        "N": "12"
+      },
+      "street": {
+        "S": "Planet"
+      }
+    }
+  }
+}

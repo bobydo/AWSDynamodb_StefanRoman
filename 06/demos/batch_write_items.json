@@ -1,0 +1,17 @@
+{
+  "elaborate_employee_table": [
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {"N":"100"},
+          "status": {"S": "batch write operation here"}
+        }
+      }
+    },
+    {
+      "DeleteRequest": {
+        "Key": {"id": {"N":"1363"}}
+      }
+    }
+  ]
+}
