@@ -4,3 +4,6 @@
 
 ![image](https://user-images.githubusercontent.com/64368109/132951516-3456c3f0-ba47-4909-9160-c37a74adf095.png)
 
+-  No SQL Type<br>
+https://phoenixnap.com/kb/nosql-database-types
+
