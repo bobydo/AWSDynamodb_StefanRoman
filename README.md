@@ -9,3 +9,7 @@ https://phoenixnap.com/kb/nosql-database-types
 
 -  Concepts: Primary Key, Sort Key, Combined Primary + Sort Key, Secondary index for search data column
 ![image](https://user-images.githubusercontent.com/64368109/136462717-e2433307-2750-47c0-9f4a-89e3d9ae3df7.png)
+
+-  Read and Write capacity related to cost
+![image](https://user-images.githubusercontent.com/64368109/136463910-a7d3742c-b337-4d02-8290-1f13189a96ce.png)
+
