@@ -13,3 +13,5 @@ https://phoenixnap.com/kb/nosql-database-types
 -  Read and Write capacity related to cost
 ![image](https://user-images.githubusercontent.com/64368109/136463910-a7d3742c-b337-4d02-8290-1f13189a96ce.png)
 
+-  .NET Core coding <br>
+![image](https://user-images.githubusercontent.com/64368109/136465587-0e82996e-8b5d-45b8-a802-ab7d8a2e295f.png)
